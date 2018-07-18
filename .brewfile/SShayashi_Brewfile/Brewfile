@@ -1,0 +1,64 @@
+# tap repositories and their packages
+
+tap argon/mas
+
+tap caskroom/cask
+
+tap homebrew/core
+
+tap homebrew/python
+
+tap homebrew/science
+
+tap rcmdnk/file
+
+# Other Homebrew packages
+brew brew-file
+brew curl
+brew docker-machine
+brew gcc
+brew gdbm
+brew git
+brew jpeg
+brew mas
+brew openssl
+brew pyenv
+brew python
+brew rbenv
+brew ruby
+brew sqlite
+brew zsh
+brew zsh-completions
+
+# Cask applications
+cask android-file-transfer
+cask android-studio
+cask appcleaner
+cask atom
+cask cyberduck
+cask disk-inventory-x
+cask dropbox
+cask google-chrome
+cask macdown
+cask microsoft-office
+cask skype
+cask sourcetree
+cask virtualbox
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask dockertoolbox (!)
+
+# App Store applications
+appstore 409183694 Keynote
+appstore 539883307 LINE
+appstore 715768417 Microsoft Remote Desktop
+appstore 409203825 Numbers
+appstore 823766827 OneDrive
+appstore 409201541 Pages
+appstore 803453959 Slack
+appstore 497799835 Xcode
+
+# Other commands
+git SShayashi/Brewfile
